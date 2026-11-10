@@ -1,0 +1,12 @@
+
+{
+  "name": "nav",
+  "version": "1.0.0",
+  "description": "Simple DevOps project",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js",
+    "start": "node app.js",
+    "test": "node apptest.js"
+  }
+}
